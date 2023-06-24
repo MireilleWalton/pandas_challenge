@@ -6,7 +6,7 @@ Student: Mireille Walton, Email: mmj649@gmail.com
 
 - PYCitySchools_starter.ipynb
 - schools_complete.csv
-- studens_complete.cs
+- students_complete.cs
 
 **References**
 
