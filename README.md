@@ -6,6 +6,7 @@ Student: Mireille Walton, Email: mmj649@gmail.com
 
 - PyCitySchools_MWalton.ipynb
 - Written analysis - "MODULE_4- MONU-VIRT-DATA-PT-05-2023-U-LOLC-MTTH - M WALTON"
+- Readme.md
 
 The below files were provided as resources for the assignment. 
 - PYCitySchools_starter.ipynb
