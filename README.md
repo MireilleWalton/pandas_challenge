@@ -4,6 +4,10 @@ Student: Mireille Walton, Email: mmj649@gmail.com
 
 **Files included:**
 
+- PyCitySchools_MWalton.ipynb
+- Written analysis - "MODULE_4- MONU-VIRT-DATA-PT-05-2023-U-LOLC-MTTH - M WALTON"
+
+The below files were provided as resources for the assignment. 
 - PYCitySchools_starter.ipynb
 - schools_complete.csv
 - students_complete.cs
